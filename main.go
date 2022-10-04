@@ -220,7 +220,7 @@ func main() {
 // 		fmt.Println(err)
 // 		return
 // 	}
-// 	req.Header.Add("Authorization", "Bearer ya29.a0Aa4xrXOWzqEXQUcrYQc_Ck9Z3st6V0TOOedDxi7jmm2_IhZHE3ceAJBPf_ANOXYc4qwd2S2_LTvy3fhi0XuCFp4IYjWmNA0chLiiAToj95N1vZVCOLR1wk3D4J2dQtX7auXk2jU3ApNTIwG9KSY408_SHHALkAaCgYKATASARESFQEjDvL9IQzrDFYoBMp6WtHqrb8Xpg0165")
+// 	req.Header.Add("Authorization", "Bearer ")
 
 // 	res, err := client.Do(req)
 // 	if err != nil {
